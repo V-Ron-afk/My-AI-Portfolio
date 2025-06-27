@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/user/Documents/RON/files/MY%20FILES/1%20-%20TEMPLATE%20FOR%20REACT%20PORTFOLIO/new-porfolio/app/components/dock.css"],"sourcesContent":[".dock-demo .dock-window {\r\n    width: 100%;\r\n    height: 450px;\r\n    position: relative;\r\n    background-image: url('https://primefaces.org/cdn/primereact/images/dock/window.jpg');\r\n    background-repeat: no-repeat;\r\n    background-size: cover;\r\n  }\r\n  .dock-demo .p-dock {\r\n    z-index: 1000;\r\n  }  "],"names":[],"mappings":"AAAA;;;;;;;;;AAQE","debugId":null}}]
+}
